@@ -1,0 +1,16 @@
+{
+    "name": "tomasnorre/rector-pest-problem",
+    "description": "This is a demo project to show a problem that I have with rector and pest in combination",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomas Norre Mikkelsen",
+            "email": "tomasnorre@gmail.com"
+        }
+    ],
+    "require": {
+        "rector/rector": "0.11.4",
+        "pestphp/pest": "1.2.1"
+    }
+}
